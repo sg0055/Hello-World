@@ -1,0 +1,11 @@
+// Bharath Chandra 16101
+// B.tech ECE
+// IIIT-NR
+
+#include<stdio.h>
+
+int main()
+{
+printf("Hello World\n");
+return 0;
+}
